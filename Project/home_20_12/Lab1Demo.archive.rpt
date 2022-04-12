@@ -1,0 +1,194 @@
+Archive Project report for Lab1Demo
+Thu Dec 23 08:05:32 2021
+Quartus Prime Version 17.0.0 Build 595 04/25/2017 SJ Lite Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Archive Project Summary
+  3. Archive Project Messages
+  4. Files Archived
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 2017  Intel Corporation. All rights reserved.
+Your use of Intel Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Intel Program License 
+Subscription Agreement, the Intel Quartus Prime License Agreement,
+the Intel MegaCore Function License Agreement, or other 
+applicable license agreement, including, without limitation, 
+that your use is for the sole purpose of programming logic 
+devices manufactured by Intel and sold by Intel or its 
+authorized distributors.  Please refer to the applicable 
+agreement for further details.
+
+
+
++----------------------------------------------------------------+
+; Archive Project Summary                                        ;
++------------------------+---------------------------------------+
+; Archive Project Status ; Successful - Thu Dec 23 08:05:32 2021 ;
+; Revision Name          ; Lab1Demo                              ;
+; Top-level Entity Name  ; TOP_VGA_MONKEY_KONG                   ;
+; Family                 ; Cyclone V                             ;
++------------------------+---------------------------------------+
+
+
++--------------------------+
+; Archive Project Messages ;
++--------------------------+
+Info: File Set 'Source control' contains:
+    Info: Project source and settings files
+    Info: Automatically detected source files
+Info: Archive will store files relative to the closest common parent directory
+Info (13213): Using common directory C:/technion/semester_5/ElectricalEngineeringLab/final_project/
+Info: ----------------------------------------------------------
+Info: ----------------------------------------------------------
+Info: Generated archive 'C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/FINAL.qar'
+Info: ----------------------------------------------------------
+Info: ----------------------------------------------------------
+Info: Generated report 'Lab1Demo.archive.rpt'
+Info (23030): Evaluation of Tcl script c:/intelfpga_lite/17.0.0/quartus/common/tcl/apps/qpm/qar.tcl was successful
+Info: Quartus Prime Shell was successful. 0 errors, 0 warnings
+    Info: Peak virtual memory: 4835 megabytes
+    Info: Processing ended: Thu Dec 23 08:05:32 2021
+    Info: Elapsed time: 00:00:02
+    Info: Total CPU time (on all processors): 00:00:02
+
+
++-----------------------------------------------------------------------------------------------------------+
+; Files Archived                                                                                            ;
++-----------------------------------------------------------------------------------------------------------+
+; File Name                                                                                                 ;
++-----------------------------------------------------------------------------------------------------------+
+; ../../SV2Lab/version_09_11/RTL/bcddn.sv                                                                   ;
+; ../../SV2Lab/version_09_11/RTL/bomb.sv                                                                    ;
+; ../../SV2Lab/version_09_11/RTL/down_counter.sv                                                            ;
+; ../../SV2Lab/version_09_11/RTL/one_sec_counter.sv                                                         ;
+; assignment_defaults.qdf                                                                                   ;
+; audio_codec_controller.qxp                                                                                ;
+; C:/technion/semester_5/ElectricalEngineeringLab/final_project/SV2Lab/version_09_11/RTL/bcddn.sv           ;
+; C:/technion/semester_5/ElectricalEngineeringLab/final_project/SV2Lab/version_09_11/RTL/bomb.sv            ;
+; C:/technion/semester_5/ElectricalEngineeringLab/final_project/SV2Lab/version_09_11/RTL/down_counter.sv    ;
+; C:/technion/semester_5/ElectricalEngineeringLab/final_project/SV2Lab/version_09_11/RTL/one_sec_counter.sv ;
+; clock_divider.cmp                                                                                         ;
+; clock_divider.qip                                                                                         ;
+; clock_divider.sip                                                                                         ;
+; clock_divider.spd                                                                                         ;
+; clock_divider.v                                                                                           ;
+; clock_divider/clock_divider_0002.qip                                                                      ;
+; clock_divider/clock_divider_0002.v                                                                        ;
+; clock_divider_sim/clock_divider.vo                                                                        ;
+; constraints/DE10_Standard_Audio.sdc                                                                       ;
+; constraints/pin.tcl                                                                                       ;
+; db/stp7_auto_stripped.stp                                                                                 ;
+; DE10_Standard_Audio.sdc                                                                                   ;
+; Lab1Demo.qpf                                                                                              ;
+; Lab1Demo.qsf                                                                                              ;
+; Number_position.bsf                                                                                       ;
+; Number_position.qip                                                                                       ;
+; Number_position.v                                                                                         ;
+; Number_position_bb.v                                                                                      ;
+; output_files/Chain1.cdf                                                                                   ;
+; RTL/AUDIO/addr_counter.sv                                                                                 ;
+; RTL/AUDIO/AUDIO.bdf                                                                                       ;
+; RTL/AUDIO/prescaler.sv                                                                                    ;
+; RTL/AUDIO/SinTable.sv                                                                                     ;
+; RTL/AUDIO/ToneDecoder.sv                                                                                  ;
+; RTL/AUDIO/TOP_AUDIO.bdf                                                                                   ;
+; RTL/audio_codec_controller/audio_codec_controller.qxp                                                     ;
+; RTL/KEYBOARD/bitrec.sv                                                                                    ;
+; RTL/KEYBOARD/byterec.sv                                                                                   ;
+; RTL/KEYBOARD/KBDINTF.bdf                                                                                  ;
+; RTL/KEYBOARD/KEYBOARD_INTERFACE.bdf                                                                       ;
+; RTL/KEYBOARD/keyPad_decoder.sv                                                                            ;
+; RTL/KEYBOARD/keyToggle_decoder.sv                                                                         ;
+; RTL/KEYBOARD/lpf.sv                                                                                       ;
+; RTL/KEYBOARD/random.sv                                                                                    ;
+; RTL/KEYBOARD/simple_up_counter.sv                                                                         ;
+; RTL/Seg7/SEG7.SV                                                                                          ;
+; RTL/VGA/back_ground_draw.sv                                                                               ;
+; RTL/VGA/back_ground_drawSquare.sv                                                                         ;
+; RTL/VGA/constNumber.sv                                                                                    ;
+; RTL/VGA/fourDrawingReq_mux.sv                                                                             ;
+; RTL/VGA/fourDRwithOffsets_mux.sv                                                                          ;
+; RTL/VGA/fourDRwithOffsetsAndColl_mux.sv                                                                   ;
+; RTL/VGA/freeFruitBlock.bdf                                                                                ;
+; RTL/VGA/freeFruitBlockexample.bdf                                                                         ;
+; RTL/VGA/freeFruitDraw.bdf                                                                                 ;
+; RTL/VGA/fruit_move.sv                                                                                     ;
+; RTL/VGA/fruitBlock.bdf                                                                                    ;
+; RTL/VGA/fruitOnRope.bdf                                                                                   ;
+; RTL/VGA/FruitsMatrixBitMap.sv                                                                             ;
+; RTL/VGA/game_controller.sv                                                                                ;
+; RTL/VGA/gameOver_BitMap.sv                                                                                ;
+; RTL/VGA/gameOverBlock.bdf                                                                                 ;
+; RTL/VGA/getFruitsType_6.sv                                                                                ;
+; RTL/VGA/GROUND_DISPLAY.bdf                                                                                ;
+; RTL/VGA/ground_move.sv                                                                                    ;
+; RTL/VGA/ground_mux.sv                                                                                     ;
+; RTL/VGA/GroundBitMap.sv                                                                                   ;
+; RTL/VGA/Heart_BitMap.sv                                                                                   ;
+; RTL/VGA/HeartBlock.bdf                                                                                    ;
+; RTL/VGA/HeartsBlock.bdf                                                                                   ;
+; RTL/VGA/hexss.sv                                                                                          ;
+; RTL/VGA/Hit.sv                                                                                            ;
+; RTL/VGA/key_BitMap.sv                                                                                     ;
+; RTL/VGA/keyBlock.bdf                                                                                      ;
+; RTL/VGA/livesScoresCounter_Block.sv                                                                       ;
+; RTL/VGA/monkey_BitMap.sv                                                                                  ;
+; RTL/VGA/monkey_moveCollision.sv                                                                           ;
+; RTL/VGA/monkeyBlock.bdf                                                                                   ;
+; RTL/VGA/monster_BitMap.sv                                                                                 ;
+; RTL/VGA/monster_move.sv                                                                                   ;
+; RTL/VGA/monstersBlock.bdf                                                                                 ;
+; RTL/VGA/Moving_Ground.bdf                                                                                 ;
+; RTL/VGA/MOVING_ROPE.bdf                                                                                   ;
+; RTL/VGA/movingFruitBlock.bdf                                                                              ;
+; RTL/VGA/movingGround_mux.sv                                                                               ;
+; RTL/VGA/MovingGroundBitMap.sv                                                                             ;
+; RTL/VGA/movingRope_mux.sv                                                                                 ;
+; RTL/VGA/movingRopeBlock.bdf                                                                               ;
+; RTL/VGA/objects_mux.sv                                                                                    ;
+; RTL/VGA/ROPE_DISPLAY.bdf                                                                                  ;
+; RTL/VGA/rope_move.sv                                                                                      ;
+; RTL/VGA/ropeAndFruit_mux.sv                                                                               ;
+; RTL/VGA/RopeBitMap.sv                                                                                     ;
+; RTL/VGA/ropeFruitBlock.bdf                                                                                ;
+; RTL/VGA/ropes_mux.sv                                                                                      ;
+; RTL/VGA/ropesBlock.bdf                                                                                    ;
+; RTL/VGA/sixDrawingReq_mux.sv                                                                              ;
+; RTL/VGA/square_object.sv                                                                                  ;
+; RTL/VGA/square_object_with_width.sv                                                                       ;
+; RTL/VGA/startGame_BitMap.sv                                                                               ;
+; RTL/VGA/startGameBlock.bdf                                                                                ;
+; RTL/VGA/threeDrawingReq_mux.sv                                                                            ;
+; RTL/VGA/timerBlock.bdf                                                                                    ;
+; RTL/VGA/timerEndStatus.sv                                                                                 ;
+; RTL/VGA/TOP_VGA_MONKEY_KONG.bdf                                                                           ;
+; RTL/VGA/twoConstNumber.sv                                                                                 ;
+; RTL/VGA/twoDRwithOffsets_mux.sv                                                                           ;
+; RTL/VGA/VGA_Controller.sv                                                                                 ;
+; RTL/VGA/winerGameBlock.bdf                                                                                ;
+; RTL/VGA/winGame_BitMap.sv                                                                                 ;
+; stp1.stp                                                                                                  ;
+; stp2.stp                                                                                                  ;
+; stp3.stp                                                                                                  ;
+; stp4.stp                                                                                                  ;
+; stp5.stp                                                                                                  ;
+; stp6.stp                                                                                                  ;
+; stp7.stp                                                                                                  ;
+; Waveform.vwf                                                                                              ;
+; Waveform1.vwf                                                                                             ;
++-----------------------------------------------------------------------------------------------------------+
+
+

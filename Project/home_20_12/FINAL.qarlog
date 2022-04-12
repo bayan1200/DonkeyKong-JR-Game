@@ -1,0 +1,132 @@
+Quartus Prime Archive log --	C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/FINAL.qarlog
+
+Archive:	C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/FINAL.qar
+Date:		Thu Dec 23 08:05:32 2021
+Quartus Prime		17.0.0 Build 595 04/25/2017 SJ Lite Edition
+
+	=========== Files Selected: ===========
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/DE10_Standard_Audio.sdc
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/Lab1Demo.qpf
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/Lab1Demo.qsf
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/Number_position.bsf
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/Number_position.qip
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/Number_position.v
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/Number_position_bb.v
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/AUDIO/AUDIO.bdf
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/AUDIO/SinTable.sv
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/AUDIO/TOP_AUDIO.bdf
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/AUDIO/ToneDecoder.sv
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/AUDIO/addr_counter.sv
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/AUDIO/prescaler.sv
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/KEYBOARD/KBDINTF.bdf
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/KEYBOARD/KEYBOARD_INTERFACE.bdf
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/KEYBOARD/bitrec.sv
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/KEYBOARD/byterec.sv
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/KEYBOARD/keyPad_decoder.sv
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/KEYBOARD/keyToggle_decoder.sv
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/KEYBOARD/lpf.sv
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/KEYBOARD/random.sv
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/KEYBOARD/simple_up_counter.sv
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/Seg7/SEG7.SV
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/VGA/FruitsMatrixBitMap.sv
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/VGA/GROUND_DISPLAY.bdf
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/VGA/GroundBitMap.sv
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/VGA/HeartBlock.bdf
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/VGA/Heart_BitMap.sv
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/VGA/HeartsBlock.bdf
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/VGA/Hit.sv
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/VGA/MOVING_ROPE.bdf
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/VGA/MovingGroundBitMap.sv
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/VGA/Moving_Ground.bdf
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/VGA/ROPE_DISPLAY.bdf
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/VGA/RopeBitMap.sv
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/VGA/TOP_VGA_MONKEY_KONG.bdf
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/VGA/VGA_Controller.sv
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/VGA/back_ground_draw.sv
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/VGA/back_ground_drawSquare.sv
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/VGA/constNumber.sv
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/VGA/fourDRwithOffsetsAndColl_mux.sv
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/VGA/fourDRwithOffsets_mux.sv
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/VGA/fourDrawingReq_mux.sv
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/VGA/freeFruitBlock.bdf
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/VGA/freeFruitBlockexample.bdf
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/VGA/freeFruitDraw.bdf
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/VGA/fruitBlock.bdf
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/VGA/fruitOnRope.bdf
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/VGA/fruit_move.sv
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/VGA/gameOverBlock.bdf
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/VGA/gameOver_BitMap.sv
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/VGA/game_controller.sv
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/VGA/getFruitsType_6.sv
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/VGA/ground_move.sv
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/VGA/ground_mux.sv
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/VGA/hexss.sv
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/VGA/keyBlock.bdf
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/VGA/key_BitMap.sv
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/VGA/livesScoresCounter_Block.sv
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/VGA/monkeyBlock.bdf
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/VGA/monkey_BitMap.sv
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/VGA/monkey_moveCollision.sv
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/VGA/monster_BitMap.sv
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/VGA/monster_move.sv
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/VGA/monstersBlock.bdf
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/VGA/movingFruitBlock.bdf
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/VGA/movingGround_mux.sv
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/VGA/movingRopeBlock.bdf
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/VGA/movingRope_mux.sv
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/VGA/objects_mux.sv
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/VGA/ropeAndFruit_mux.sv
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/VGA/ropeFruitBlock.bdf
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/VGA/rope_move.sv
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/VGA/ropesBlock.bdf
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/VGA/ropes_mux.sv
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/VGA/sixDrawingReq_mux.sv
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/VGA/square_object.sv
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/VGA/square_object_with_width.sv
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/VGA/startGameBlock.bdf
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/VGA/startGame_BitMap.sv
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/VGA/threeDrawingReq_mux.sv
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/VGA/timerBlock.bdf
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/VGA/timerEndStatus.sv
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/VGA/twoConstNumber.sv
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/VGA/twoDRwithOffsets_mux.sv
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/VGA/winGame_BitMap.sv
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/VGA/winerGameBlock.bdf
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/RTL/audio_codec_controller/audio_codec_controller.qxp
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/Waveform.vwf
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/Waveform1.vwf
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/assignment_defaults.qdf
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/audio_codec_controller.qxp
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/clock_divider.cmp
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/clock_divider.qip
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/clock_divider.sip
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/clock_divider.spd
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/clock_divider.v
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/clock_divider/clock_divider_0002.qip
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/clock_divider/clock_divider_0002.v
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/clock_divider_sim/clock_divider.vo
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/constraints/DE10_Standard_Audio.sdc
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/constraints/pin.tcl
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/db/stp7_auto_stripped.stp
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/output_files/Chain1.cdf
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/stp1.stp
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/stp2.stp
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/stp3.stp
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/stp4.stp
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/stp5.stp
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/stp6.stp
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/stp7.stp
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/SV2Lab/version_09_11/RTL/bcddn.sv
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/SV2Lab/version_09_11/RTL/bomb.sv
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/SV2Lab/version_09_11/RTL/down_counter.sv
+C:/technion/semester_5/ElectricalEngineeringLab/final_project/SV2Lab/version_09_11/RTL/one_sec_counter.sv
+	======= Total: 115 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Thu Dec 23 18:16:38 2021
+Source archive file:	C:/technion/semester_5/ElectricalEngineeringLab/final_project/Project/home_20_12/FINAL.qar
+Archive was extracted into	C:/technion/semester_5/ElectricalEngineeringLab/simulation/
+		 - successfully.
